@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JCord-Example_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JCord-Example_main.iml" group="JCord-Example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JCord-Example_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JCord-Example_test.iml" group="JCord-Example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JCord-Examples.iml" filepath="$PROJECT_DIR$/.idea/modules/JCord-Examples.iml" />
+    </modules>
+  </component>
+</project>

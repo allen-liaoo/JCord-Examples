@@ -1,0 +1,15 @@
+group 'com.github.AlienIdeology'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    jcenter()
+    maven { url "https://jitpack.io" }
+}
+
+dependencies {
+    compile 'com.github.AlienIdeology:J-Cord:-SNAPSHOT'
+}
